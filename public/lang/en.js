@@ -1,0 +1,34 @@
+export default {
+  "memberBrands": {
+    "title": "Member Brands",
+    "subtitle": "Exclusive benefits and privileges for our valued members",
+    "brands": {
+      "title": "Our Partner Brands",
+      "description": "Access exclusive discounts and special offers from our premium brand partners"
+    },
+    "categories": {
+      "dining": "Dining",
+      "shopping": "Shopping",
+      "lifestyle": "Lifestyle",
+      "entertainment": "Entertainment"
+    },
+    "benefits": {
+      "title": "Membership Benefits",
+      "discounts": "Special Discounts",
+      "points": "Loyalty Points",
+      "access": "Priority Access",
+      "events": "Exclusive Events"
+    },
+    "cta": {
+      "join": "Join Now",
+      "learn": "Learn More"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Find Rooms",
+    "citizen": "Citizen Program",
+    "brands": "Member Brands",
+    "contact": "Contact"
+  }
+}
